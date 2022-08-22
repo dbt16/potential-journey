@@ -1,2 +1,3 @@
 # potential-journey
-qualquer coisa para testar...
+
+Este repositório foi criado com o intuito de testar o github!:D
